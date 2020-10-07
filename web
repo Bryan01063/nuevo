@@ -2,6 +2,17 @@
 <html>
     <head>
         <title>Home</title>
+        <style>
+            body
+            {
+                background-color: green;
+                color: indigo;
+            }
+            p
+            {
+                color:crimson;
+            }
+        </style>
     </head>
     <body>
         <h1>HOLA BIENVENIDO</h1>
